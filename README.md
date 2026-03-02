@@ -22,3 +22,4 @@ No arquivo `.ipynb`, foram realizadas as etapas abaixo:
 - Existem **outliers** de idade (casos bem acima do padrão da maioria).
 - Há **concentração geográfica** por região/UF em números absolutos.
 - Foi identificada a presença de data **placeholder** (31/12/1969), tratada como ausente para não distorcer a análise.
+# exploracao-dados-Fernando-Freire
